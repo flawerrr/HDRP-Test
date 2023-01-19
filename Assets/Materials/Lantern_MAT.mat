@@ -98,11 +98,11 @@ Material:
     - _RefractionModel: 0
     - _RenderQueueType: 1
     - _RequireSplitLighting: 0
-    - _ScaleAmount: 0.026
+    - _ScaleAmount: 0.0216
     - _ScaleAmountSide: 1
     - _SmoothnessUseTex: 0
     - _SnowAmount: 1
-    - _SnowAngle: 0
+    - _SnowAngle: 0.398
     - _SrcBlend: 1
     - _StencilRef: 0
     - _StencilRefDepth: 8

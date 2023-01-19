@@ -102,6 +102,7 @@ Material:
     - _ScaleAmountSide: 1
     - _SmoothnessUseTex: 1
     - _SnowAmount: 1
+    - _SnowAngle: 0.055
     - _SrcBlend: 1
     - _StencilRef: 0
     - _StencilRefDepth: 8
